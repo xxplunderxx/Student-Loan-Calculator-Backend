@@ -2,7 +2,7 @@
 Code written during my internship @ Envestnet | Moneyguide (Summer 2022)
 
 # Authors
-This code was written entirely by me throughout the first half of my internhsip (about 4 weeks). Investment research \ fomulas was done by Salona Khanal. Frontend which is not included here was written by Giancarlo Padron.
+This code was written entirely by me throughout the first half of my internhsip (about 4 weeks). Investment research & fomulas was done by Salona Khanal. Frontend which is not included here was written by Giancarlo Padron.
 linkedin.com/in/salona-khanal
 linkedin.com/in/padrongiancarlo
 
