@@ -9,7 +9,7 @@ linkedin.com/in/salona-khanal
 linkedin.com/in/padrongiancarlo
 
 # Purpose 
-The purpose of this project was to create a calculator that could calculate a user's net worth given a set of parameters. We are also required to create an optimized version of the networth calculation. Thre is no user validation because we were told not to authenticate, but I wanted to have user's so information could be reused.
+The purpose of this project was to help a student decide how to pay off their student debt by showing them their Networth over time. There is no user validation because we were told not to authenticate, but I added users to the DB so information could be reused for an existing user.
 
 # Use
 This backend code set up all of the API calls the frontend used to create and access data stored in User's profiles & calculation used in charts on the frontend.
