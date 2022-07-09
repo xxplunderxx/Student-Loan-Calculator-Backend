@@ -8,11 +8,31 @@ linkedin.com/in/salona-khanal
 
 linkedin.com/in/padrongiancarlo
 
-# Purpose 
-The purpose of this project was to help a student decide how to pay off their student debt by showing them their Networth over time. There is no user validation because we were told not to authenticate, but I added users to the DB so information could be reused for an existing user.
+# Requirements
+Create an application that can determine the optimal amount of discretionary income the user should be putting towards Education Loans versus Saving/Investing.
 
-# Use
-This backend code set up all of the API calls the frontend used to create and access data stored in User's profiles & calculation used in charts on the frontend.
+Must be able to track Net Worth based on a set of inputs and assumptions
+
+  Income, Expenses, Money toward Student Loans, Investments
+
+Include a scenario to serve as a basis for comparison
+
+Net Worth and assumed account growth/depletion must extend at least until loans are paid off
+
+Must include a minimum loan payment or Zero-balance loan date
+
+# Requirements - Backend
+Must use MongoDB for storage
+
+Must use JIRA for bug/feature tracking
+
+Separate layers for
+
+  api / presentation dtos
+
+  data / domain models
+
+Api must have separate endpoints for CRUD operations and analysis
 
 # Tools
-Code was written in C# using the .Net framework. MongoDB was used as our database solution.
+Code was written in C# using the .Net framework. MongoDB was used as our database solution. I used Postman for testing and JIRA for feature tracking.
