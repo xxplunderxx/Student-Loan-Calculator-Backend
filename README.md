@@ -13,7 +13,7 @@ Create an application that can determine the optimal amount of discretionary inc
 
 Must be able to track Net Worth based on a set of inputs and assumptions
 
-  Income, Expenses, Money toward Student Loans, Investments
+- Income, Expenses, Money toward Student Loans, Investments
 
 Include a scenario to serve as a basis for comparison
 
@@ -28,9 +28,9 @@ Must use JIRA for bug/feature tracking
 
 Separate layers for
 
-  api / presentation dtos
+- api / presentation dtos
 
-  data / domain models
+- data / domain models
 
 Api must have separate endpoints for CRUD operations and analysis
 
