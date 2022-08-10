@@ -2,11 +2,14 @@
 Code written during my internship @ Envestnet | Moneyguide (Summer 2022)
 
 # Authors
-This code was written entirely by me throughout the first half of my internhsip (about 4 weeks). Investment research & fomulas were done by Salona Khanal. Frontend (not included) was written by Giancarlo Padron.
+Backend
+linkedin.com/in/jacob-eul
 
+Business Analyst
 linkedin.com/in/salona-khanal
 
-linkedin.com/in/padrongiancarlo
+Frontend
+linkedin.com/in/giancarlopadron
 
 # Requirements
 Create an application that can determine the optimal amount of discretionary income the user should be putting towards Education Loans versus Saving/Investing.
@@ -35,4 +38,5 @@ Separate layers for
 Api must have separate endpoints for CRUD operations and analysis
 
 # Tools
-Code was written in C# using the .Net framework. MongoDB was used as our database solution. I used Postman for testing and JIRA for feature tracking.
+Code was written in C# using the .Net framework to make resful API endpoints. MongoDB was used as our database solution.
+I used Postman for testing and JIRA for feature tracking.
