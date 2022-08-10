@@ -3,13 +3,13 @@ Code written during my internship @ Envestnet | Moneyguide (Summer 2022)
 
 # Authors
 Backend
-linkedin.com/in/jacob-eul
+ - linkedin.com/in/jacob-eul
 
 Business Analyst
-linkedin.com/in/salona-khanal
+ - linkedin.com/in/salona-khanal
 
 Frontend
-linkedin.com/in/giancarlopadron
+ - linkedin.com/in/giancarlopadron
 
 # Requirements
 Create an application that can determine the optimal amount of discretionary income the user should be putting towards Education Loans versus Saving/Investing.
